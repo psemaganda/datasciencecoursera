@@ -1,6 +1,6 @@
 ---
 title: "run_analysis.R"
-author: "Paul"
+author: "psemaganda"
 date: "November 24, 2014"
 output: pdf_document
 ---
