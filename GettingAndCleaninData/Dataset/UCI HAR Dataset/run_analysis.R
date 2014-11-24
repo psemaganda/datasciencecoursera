@@ -1,4 +1,5 @@
 library(reshape)
+library(plyr)
 counttest <- c(1)
 counttrain <- c(1)
 testfiles <- vector()
